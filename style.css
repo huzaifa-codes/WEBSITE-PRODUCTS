@@ -1,0 +1,44 @@
+.navbar-nav{
+    gap: 10px;
+}
+
+
+
+
+  
+  .card {
+    border: 5px solid rgb(5, 18, 136);
+    border-radius: 15px;
+    box-shadow: 0 20px 30                  v7ypx rgba(0, 0, 0, 0.5); 
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+   
+    border-style: dotted;
+    
+  }
+
+  .card:hover {
+    transform: scale(1.05); /* Slight zoom effect on hover */
+   
+  }
+
+
+  #container-2{
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    padding: 10px;
+    margin: 10px;
+    gap: 10px;
+  }
+
+
+  #con{
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    padding: 10px;
+    margin: 10px;
+    gap: 10px;
+  }
+
+  
